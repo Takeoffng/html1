@@ -1,0 +1,45 @@
+div{
+    font-family:'Times New Roman', Times, serif;
+    font-size:20px;
+    font-weight:40px;
+    font-style: italic;
+    color: blanchedalmond;
+    padding-left: 25px 15px;
+    padding-bottom: 20px;
+}
+.nav{
+    padding: 50px;
+    color: blueviolet;
+}
+.paragraph1{
+    color:red;
+}
+
+#reset{
+    background-color: green;
+    border-radius: 30px;
+}
+#summit{
+    background-color: blue;
+    padding-right: 20px;
+    border-radius: 40px;
+    border-color: bisque;
+}
+#click{
+    background-color: indianred;
+}
+.redboy{
+    background-color: aquamarine;
+
+}
+main{
+    background-color:rgba(128, 128, 128, 0.171);
+}
+header{
+    background-color: black;
+    margin: 10px;
+}
+footer{
+    background-color: aqua;
+    margin: 10px;
+}
